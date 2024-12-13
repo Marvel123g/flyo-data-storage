@@ -62,8 +62,8 @@ how to use more html tags
 
 ## Author
 
-- Website - [Marvelous](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Marvelous]([https://marvel123g.github.io/flyo-data-storage/]
+- Frontend Mentor - [@Marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
 
 
